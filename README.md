@@ -14,8 +14,9 @@
 
 * MOOCs
     * Statistical Learning: [Download PDF](https://github.com/leehaesung/00-CertificateBox/raw/master/00_CertificateBox/Certificate_Statistical%20Learning_Stanford_HSLEE.pdf)
-    * Machine Learning: [Download JPG](https://raw.githubusercontent.com/leehaesung/00-CertificateBox/master/00_CertificateBox/ML_result_HSLEE.png) (Coming Soon 11 November)
-    * Data Scientis's Tool Box:
+    * Machine Learning: [Download JPG](https://raw.githubusercontent.com/leehaesung/00-CertificateBox/master/00_CertificateBox/ML_result_HSLEE.png) (Coming Soon @11 November)
+    * Data Scientis's Tool Box: [Download JPG]() (Coming Soon When I finish Data Specialization 10 Courses) 
+    * A developer's guide to the Internet of Things (IoT) (Completed 80%)
     
 
 ***
