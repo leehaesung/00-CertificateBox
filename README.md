@@ -7,18 +7,18 @@
 ***
 
 * School
-    * Bachelor Degree: 
-    * Academic Record: 
+    * Bachelor Degree: [Download JPG](https://raw.githubusercontent.com/leehaesung/00-CertificateBox/master/00_CertificateBox/degree_HaeSungLee.jpg)
+    * Academic Record: [Download JPG](https://raw.githubusercontent.com/leehaesung/00-CertificateBox/master/00_CertificateBox/Academic%20Record_HaeSungLee.jpg)
     
 ***
 
 * MOOCs
     * Statistical Learning: [Download PDF](https://github.com/leehaesung/00-CertificateBox/raw/master/00_CertificateBox/Certificate_Statistical%20Learning_Stanford_HSLEE.pdf)
-    * Machine Learning:
+    * Machine Learning: [Download JPG](https://raw.githubusercontent.com/leehaesung/00-CertificateBox/master/00_CertificateBox/ML_result_HSLEE.png)
     * Data Scientis's Tool Box:
     
 
 ***
 
 * Volunteer
-    * Australia Salvation Army:
+    * Australia Salvation Army: [Download JPG](https://raw.githubusercontent.com/leehaesung/00-CertificateBox/master/00_CertificateBox/The%20Salvation%20Army_Certificate02_B.jpg)
