@@ -9,6 +9,7 @@
 * School
     * Bachelor Degree: [Download JPG](https://raw.githubusercontent.com/leehaesung/00-CertificateBox/master/00_CertificateBox/degree_HaeSungLee.jpg)
     * Academic Record: [Download JPG](https://raw.githubusercontent.com/leehaesung/00-CertificateBox/master/00_CertificateBox/Academic%20Record_HaeSungLee.jpg)
+    * IT School Certificate: [Download PDF](https://github.com/leehaesung/00-CertificateBox/raw/master/00_CertificateBox/Certificate_SCBIT_College.pdf) 
     
 ***
 
