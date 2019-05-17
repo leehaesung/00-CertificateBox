@@ -13,6 +13,7 @@
 ***
 
 * MOOCs
+    * AWS IoT: Developing and Deploying an Internet of Things: [Download PDF](https://github.com/leehaesung/00-CertificateBox/raw/master/00_CertificateBox/AWS_IoT-%20Developing_and_Deploying_an_Internet_of_Things.pdf)
     * Statistical Learning: [Download PDF](https://github.com/leehaesung/00-CertificateBox/raw/master/00_CertificateBox/Certificate_Statistical%20Learning_Stanford_HSLEE.pdf)
     * Machine Learning: 
     [(1)Download PDF](https://github.com/leehaesung/00-CertificateBox/raw/master/00_CertificateBox/MachineLearningCoursera%20W256TMG3R5H8.pdf)
